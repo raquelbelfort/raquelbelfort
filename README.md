@@ -20,9 +20,11 @@
   - Raquel Belfort (or just Rachel). 17 y.o;
   - Br(uh)zilian. Currently studying computer science in college;
   - Encryption admirer applied to ARGs such as DDLC, Catastrophe Crow, Andy's Apple Farm, TheSunVanished, Notpron and DNBHL.
-  - _(Also a reader (thriller and fantasy mostly) & a passionate character writer. Just for fun)._
+  - _(Also a reader (thriller and fantasy mostly) & passionate character writer. Just for fun)._
     
   > All live on things somehow.
+  
+  - **Languages I'm currently learning:** C/C# | HTML/CSS/JavaScript.
   
   ##
   
