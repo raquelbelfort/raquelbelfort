@@ -1,8 +1,9 @@
-<div align="center">
   ### ⛓️ Welcome, travellers.
   waiting for something to happen?
-![hello](https://user-images.githubusercontent.com/61334929/154825699-eadaa76b-3971-4930-b940-c56c4040cef5.png)
-</div>
+  
+  ![hello](https://user-images.githubusercontent.com/61334929/154825699-eadaa76b-3971-4930-b940-c56c4040cef5.png)
+
+  ##
 
 <div align="center">
   <a href="https://github.com/raquelbelfort">
@@ -17,7 +18,20 @@
   <a href = "mailto:raquelzinha.belfort@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href=" https://www.linkedin.com/in/raquel-belfort-b17295232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+  
+  - Raquel Belfort. 17 y.o;
+  - Br(uh)zilian. Currently studying computer science in college;
+  - Encryption admirer applied to ARGs such as DDLC, Catastrophe Crow, Andy's Apple Farm, TheSunVanished, Notpron and DNBHL.
+  - _(Also a reader (thriller and fantasy mostly) & a passionate character writer. Just for fun)._
+    
+  > _All live on things somehow._
+  
   ##
   
 ![Snake animation](https://github.com/raquelbelfort/raquelbelfort/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
+  
+secret: you found your [gift](https://open.spotify.com/playlist/1SOM5nwnMSx8zQCSg5HlkT?si=c06d90e28e124c86). you deserve to be a [[hyperlink blocked]] too.
+
+
