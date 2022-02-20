@@ -22,7 +22,7 @@
   - Encryption admirer applied to ARGs such as DDLC, Catastrophe Crow, Andy's Apple Farm, TheSunVanished, Notpron and DNBHL.
   - _(Also a reader (thriller and fantasy mostly) & a passionate character writer. Just for fun)._
     
-  > _All live on things somehow._
+  > All live on things somehow.
   
   ##
   
