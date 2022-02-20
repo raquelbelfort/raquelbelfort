@@ -24,7 +24,7 @@
     
   > All live on things somehow.
   
-  - **Languages I'm currently learning:** C/C# | HTML/CSS/JavaScript.
+  - **Languages I'm learning:** C/C# | HTML/CSS/JavaScript.
   
   ##
   
