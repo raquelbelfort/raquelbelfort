@@ -20,8 +20,8 @@
   - Raquel Belfort (Rachel for short). 18 y.o. ptbr/eng;
   - Br(uh)zilian. Currently studying computer science in college;
   - Encryption admirer applied to ARGs such as DDLC, Catastrophe Crow, Andy's Apple Farm, Notpron, Shipwrecked 64 and DNBHL.
-    (Which also includes a bit of analog horror).
-  - Reader (thriller and fantasy mostly) & passionate character writer. Just for fun._
+    (Which also includes some analog horror).
+  - Reader (thriller and fantasy mostly) & passionate character writer. Just for fun.
     
   > All live on things somehow. – Catastrophe Crow.
   
