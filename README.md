@@ -25,7 +25,7 @@
     
   > All live on things somehow. – Catastrophe Crow.
   
-  - **Languages I'm learning:** C/C# | HTML/CSS/JavaScript.
+  - **Languages I'm learning:** C/C# | Python | HTML/CSS/JavaScript.
   
   ##
   
