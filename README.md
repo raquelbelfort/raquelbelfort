@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/raquel-belfort-b17295232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  - Raquel Belfort (Rachel for short). 18 y.o. ptbr/eng;
+  - Raquel Belfort (Rachel for short). 19 y.o. ptbr/eng;
   - Br(uh)zilian. Currently studying computer science in college;
   - Encryption admirer applied to ARGs such as DDLC, Catastrophe Crow, Andy's Apple Farm, Notpron, Shipwrecked 64 and DNBHL.
     (Which also includes some analog horror).
